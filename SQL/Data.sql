@@ -1,0 +1,10 @@
+INSERT INTO user_account (email, password, user_name, age, address) VALUES ('test1@test.com', 'pass', '山田太郎', 30, '東京都');
+INSERT INTO user_account (email, password, user_name, age, address) VALUES ('test2@test.com', 'pass', '佐藤次郎', 25, '神奈川県');
+INSERT INTO user_account (email, password, user_name, age, address) VALUES ('test3@test.com', 'pass', '鈴木三郎', 28, '大阪府');
+INSERT INTO user_account (email, password, user_name, age, address) VALUES ('test4@test.com', 'pass', '田中四郎', 35, '愛知県');
+INSERT INTO user_account (email, password, user_name, age, address) VALUES ('test5@test.com', 'pass', '渡辺五郎', 22, '北海道');
+INSERT INTO user_account (email, password, user_name, age, address) VALUES ('test6@test.com', 'pass', '伊藤六郎', 31, '福岡県');
+INSERT INTO user_account (email, password, user_name, age, address) VALUES ('test7@test.com', 'pass', '中村七郎', 27, '兵庫県');
+INSERT INTO user_account (email, password, user_name, age, address) VALUES ('test8@test.com', 'pass', '小林八郎', 29, '京都府');
+INSERT INTO user_account (email, password, user_name, age, address) VALUES ('test9@test.com', 'pass', '加藤九郎', 33, '広島県');
+INSERT INTO user_account (email, password, user_name, age, address) VALUES ('test10@test.com', 'pass', '高橋十郎', 26, '静岡県');
